@@ -3,7 +3,7 @@
     font-weight: normal;
 }
 .body-container {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -44,4 +44,14 @@ li {
 }
 .x:hover {
     cursor: pointer;
+}
+
+.utility-warning {
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    user-select: none;
 }
